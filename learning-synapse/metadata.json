@@ -1,0 +1,5 @@
+{
+  "name": "Learning Synapse",
+  "description": "A recursive learning engine that visualizes knowledge as an infinite, explorable network of connected concepts.",
+  "requestFramePermissions": []
+}
